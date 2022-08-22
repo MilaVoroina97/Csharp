@@ -1,0 +1,16 @@
+C:\Examples\Examples_1\Projects2\bin\Debug\net6.0\Projects2.exe
+C:\Examples\Examples_1\Projects2\bin\Debug\net6.0\Projects2.deps.json
+C:\Examples\Examples_1\Projects2\bin\Debug\net6.0\Projects2.runtimeconfig.json
+C:\Examples\Examples_1\Projects2\bin\Debug\net6.0\Projects2.dll
+C:\Examples\Examples_1\Projects2\bin\Debug\net6.0\ref\Projects2.dll
+C:\Examples\Examples_1\Projects2\bin\Debug\net6.0\Projects2.pdb
+C:\Examples\Examples_1\Projects2\obj\Debug\net6.0\Projects2.GlobalUsings.g.cs
+C:\Examples\Examples_1\Projects2\obj\Debug\net6.0\Projects2.csproj.AssemblyReference.cache
+C:\Examples\Examples_1\Projects2\obj\Debug\net6.0\Projects2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Examples\Examples_1\Projects2\obj\Debug\net6.0\Projects2.AssemblyInfoInputs.cache
+C:\Examples\Examples_1\Projects2\obj\Debug\net6.0\Projects2.AssemblyInfo.cs
+C:\Examples\Examples_1\Projects2\obj\Debug\net6.0\Projects2.csproj.CoreCompileInputs.cache
+C:\Examples\Examples_1\Projects2\obj\Debug\net6.0\Projects2.dll
+C:\Examples\Examples_1\Projects2\obj\Debug\net6.0\ref\Projects2.dll
+C:\Examples\Examples_1\Projects2\obj\Debug\net6.0\Projects2.pdb
+C:\Examples\Examples_1\Projects2\obj\Debug\net6.0\Projects2.genruntimeconfig.cache
